@@ -1,0 +1,22 @@
+{
+  "movies": [{
+    "title": "Bourne Identity",
+    "Year": "2000",
+    "Genre": "action"
+    },
+  {
+    "title": "The Huntsman",
+    "Year": "2014",
+    "Genre": "action/drama"
+    },
+  {
+    "title": "Harry Potter",
+    "Year": "2012",
+    "Genre": "fantasy"
+    },
+  {
+    "title": "Divergent",
+    "Year": "2015",
+    "Genre": "drama"
+    }]
+}
